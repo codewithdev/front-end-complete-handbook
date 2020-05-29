@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/%E2%9C%A8-Open%20Source-blue)
+
 <h1 align="center">Front End Interview Handbook</h1>
 
 <div align="center">
